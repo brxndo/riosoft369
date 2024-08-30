@@ -2399,7 +2399,8 @@ textarea {
 .reviews-item-img {
 	width: 10rem;
 	height: 8rem;
-	min-width: 4.6875rem;
+	min-width: 10.6875rem;
+	min-height: 8.6875rem;
 	border-radius: 10%;
 	overflow: hidden;
 	margin-right: 1.25rem;
